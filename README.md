@@ -1,2 +1,2 @@
 # marioAI
-Using Genetic Algorithm to train successful agents that can complete specific stages. 
+Training successful agents to complete specific stages, using Genetic Algorithm.
