@@ -12,3 +12,7 @@
 *.lvl
 
 *.dat
+
+/lib/
+
+/bin/
